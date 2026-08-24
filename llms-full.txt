@@ -1,1 +1,413 @@
+# Environmental Permits Registry — Full Reference Guide
 
+> Environmental Permits Registry is a neutral, structured international reference registry explaining how environmental permits operate across jurisdictions.
+
+## 1. Registry Identity
+
+Environmental Permits Registry is an editorial reference publication for environmental permitting. It explains the environmental approval function in individual jurisdictions through stable, comparable jurisdiction records.
+
+The registry is designed for international business decision-makers, project developers, operators, investors, in-house teams, technical advisers, public-interest researchers and other readers who need a structured introduction to the environmental approval environment of a selected jurisdiction.
+
+The registry is not legal advice, technical advice, an advertisement, an affiliate site, a lead-generation page or a commercial directory. Registry participation, if available, is separate from editorial content and does not determine the content of a jurisdictional record.
+
+## 2. Registry Architecture
+
+The registry uses a three-level architecture:
+
+1. Home
+2. Jurisdiction index
+3. Individual jurisdiction record
+
+Canonical entry points:
+
+- Home: https://environmental-permits.org/
+- Jurisdiction index: https://environmental-permits.org/jurisdictions/
+- Jurisdiction record pattern: https://environmental-permits.org/{jurisdiction}/
+- Privacy Policy: https://environmental-permits.org/privacy-policy/
+- Terms of Use: https://environmental-permits.org/terms-of-use/
+
+The jurisdiction index lists currently represented jurisdictions. The registry may add, update or revise jurisdiction records over time.
+
+## 3. Registry Object
+
+A Registry Object represents one professional domain in one jurisdiction.
+
+For this registry:
+
+- Professional domain: Environmental Permits
+- Object type: Environmental Regulatory Approval and Compliance Function
+- Subject matter: Environmental permits, licences, authorisations, registrations, notifications, exemptions, environmental assessments, operating conditions, monitoring, reporting, enforcement and change management
+
+Environmental permitting is understood broadly as the regulatory function through which potentially environmentally significant activities are screened, authorised, conditioned, monitored, reviewed, amended, transferred, renewed, enforced or prohibited.
+
+The applicable route can include one or more of the following:
+
+- Permit
+- Licence
+- Authorisation
+- Approval
+- Registration
+- Notification
+- Exemption
+- Consent
+- Concession
+- Environmental assessment decision
+- Water or discharge approval
+- Waste approval
+- Air-emissions approval
+- Building or planning decision with environmental conditions
+- Integrated environmental decision
+- Sectoral authorisation with environmental requirements
+
+## 4. Core Editorial Principles
+
+Every jurisdictional record is written as an international handbook chapter rather than a marketing page.
+
+The registry follows these principles:
+
+- Educate before recommending
+- Explain the professional function before listing legal instruments
+- Distinguish the environmental permit function from related approvals
+- Prioritise public authorities, official legal sources and recognised public institutions
+- Present jurisdiction-specific institutional structure and practical operation
+- Use neutral, factual and non-promotional language
+- Separate editorial content from any jurisdictional expert registry position
+- Preserve a consistent structure across records
+
+## 5. What Environmental Permitting Covers
+
+Environmental permits commonly regulate activities with potential effects on:
+
+- Air quality and atmospheric emissions
+- Water abstraction, water bodies, groundwater and wastewater discharge
+- Soil and land contamination
+- Waste generation, transport, recovery, treatment, storage and disposal
+- Noise, vibration, odour and light
+- Biodiversity, protected sites, habitats and species
+- Chemicals and hazardous substances
+- Industrial operations and energy use
+- Mining, extraction and quarrying
+- Infrastructure, marine and coastal works
+- Climate-related emissions and greenhouse-gas obligations
+- Environmental accidents, emergency preparedness and remediation
+
+The exact legal thresholds, authority competence, procedural requirements and permit conditions vary by jurisdiction.
+
+## 6. Standard Jurisdiction Record
+
+Each full jurisdiction record is organised into the following sections.
+
+### 6.1 Executive Summary
+
+The summary explains:
+
+- What environmental permits are in the jurisdiction
+- How the principal permit or approval system operates
+- The legal and institutional framework
+- Cross-border and international business relevance
+
+### 6.2 Object Definition
+
+This section defines environmental permits as the jurisdiction-specific regulatory approval function. It identifies the object, object type, classification and jurisdictional scope.
+
+### 6.3 Object Characteristics
+
+This section provides registry-oriented indicators:
+
+- Market Maturity
+- Evidence Strength
+- Standardisation Level
+- Cross-Border Intensity
+- Commercial Complexity
+
+These indicators are general descriptors, not legal conclusions about an individual project.
+
+### 6.4 Scope
+
+This section distinguishes matters covered by the record from matters that are related but not primary, and matters outside scope.
+
+Environmental permitting often interacts with planning, building, water, waste, nature, energy, mining, transport, chemicals, heritage, public health, safety and sectoral approvals. These interfaces are identified without suggesting that the environmental permit replaces them.
+
+### 6.5 Purpose and Primary Outcome
+
+This section explains why the permit regime exists and the usual outcome of the process.
+
+A common outcome is a permit, licence, authorisation, approval, registration, notification result, exemption, refusal, amendment, renewal, variation or other regulatory decision. That decision may establish environmental limits, operating scope, monitoring, reporting, control measures, mitigation, restoration, closure or change-management duties.
+
+### 6.6 Request Contexts, Users and Scenarios
+
+This section identifies common triggering events, user groups and project situations, such as:
+
+- New facility or project development
+- Expansion or capacity increase
+- Process or technology change
+- New emissions or discharge source
+- Waste treatment, storage or disposal activity
+- Energy, mining, infrastructure, water or marine project
+- Acquisition of a regulated site
+- Regulatory due diligence
+- Permit renewal, review or transfer
+- Material modification or closure
+
+### 6.7 Country Characteristics
+
+This section explains what makes the jurisdiction operationally distinct. It may address:
+
+- Centralised, federal, regional, provincial, state, cantonal, local or devolved authority structures
+- Classification systems
+- Digital application platforms
+- Public participation
+- Institutional culture
+- Language expectations
+- Environmental assessment integration
+- Permit conditions, inspection and enforcement approach
+
+### 6.8 Key Authorities
+
+This section identifies public bodies relevant to the record. It describes their principal role, responsibilities, typical interaction and cross-border relevance.
+
+Authority competence is always project-specific. A jurisdictional record provides an orientation, not a final authority determination.
+
+### 6.9 Applicable Legislation
+
+This section identifies the central statute, regulation, ordinance, decree, code or framework relevant to environmental permitting in the jurisdiction.
+
+Legislation is subject to amendment, consolidation, interpretation and jurisdiction-specific implementation. Readers should verify current law through official sources and the competent authority.
+
+### 6.10 Process Flow and Decision Tree
+
+The standard operational sequence is generally:
+
+1. Define the project, facility, activity and location
+2. Identify environmental effects and regulatory triggers
+3. Determine the relevant permit or approval route
+4. Identify the competent authority or authorities
+5. Map connected approvals
+6. Prepare technical and environmental evidence
+7. Submit the application, notification or registration
+8. Participate in examination, consultation and public procedure where applicable
+9. Obtain the decision and conditions
+10. Operate, monitor, report and manage future changes
+
+The exact sequence, deadlines, documents and decision criteria vary by jurisdiction and project.
+
+### 6.11 Timeline
+
+Environmental permitting should be integrated into project development before land acquisition, procurement, construction, financing and operational commitments become fixed.
+
+The actual timeline can depend on:
+
+- Project category and threshold
+- Location and environmental sensitivity
+- Authority competence and workload
+- Application completeness
+- Environmental assessment
+- Public notice and consultation
+- Technical studies and modelling
+- Indigenous, transboundary or community engagement where applicable
+- Connected water, waste, nature, building, planning and sectoral permits
+- Appeal, review or judicial challenge risk
+
+### 6.12 Required Documents
+
+The exact record depends on the project and jurisdiction. Common documents include:
+
+- Permit, licence or authorisation application
+- Applicant and operator identification
+- Corporate authority documents
+- Project and technical description
+- Site plans, maps and drawings
+- Capacity, equipment and process information
+- Materials, fuels, energy and production data
+- Air-emissions calculations and modelling
+- Water abstraction, discharge and wastewater material
+- Waste inventory and management information
+- Noise, odour, vibration and soil information
+- Environmental assessment studies
+- Habitat, species, wetlands, marine or landscape material
+- Best available techniques or pollution-control analysis
+- Alternatives and mitigation assessment
+- Monitoring, reporting and environmental-management proposals
+- Closure, restoration, remediation or financial-assurance information where relevant
+
+### 6.13 Cross-Border Relevance
+
+Environmental permits are usually territorial and site-specific, but cross-border relevance may arise through:
+
+- International ownership and financing
+- Multinational project teams
+- Shared rivers, lakes, watersheds, air sheds and marine environments
+- Cross-border effects
+- International infrastructure, pipelines, energy networks and transport corridors
+- Regional or supranational environmental rules
+- Foreign permit comparability and non-portability
+- Cross-border consultation and public participation
+
+An approval issued in one jurisdiction should not be assumed to authorise activity in another jurisdiction.
+
+### 6.14 Operating Constraints, Risks and Costs
+
+Common operating risks include:
+
+- Incorrect project or activity classification
+- Selection of the wrong permit route
+- Inaccurate authority mapping
+- Incomplete environmental evidence
+- Failure to identify connected approvals
+- Inconsistent project descriptions across applications
+- Changes that exceed permit scope
+- Failure to meet monitoring, reporting or operational conditions
+- Unmanaged public, community, Indigenous or cross-border engagement
+- Delayed environmental assessment or public procedure
+
+Typical cost drivers include technical studies, environmental assessment, engineering, modelling, legal and process management, application fees, consultations, monitoring systems, pollution-control technology, mitigation, restoration, redesign, renewal, review and appeal work.
+
+### 6.15 FAQ
+
+Each jurisdictional record includes concise answers to threshold questions about permit need, authority, process, project changes, interaction with other approvals and ongoing compliance.
+
+### 6.16 Related Professional Areas
+
+Environmental permitting commonly intersects with:
+
+- Environmental law
+- Environmental impact assessment
+- Industrial emissions
+- Water and wastewater regulation
+- Waste regulation
+- Air quality and noise
+- Ecology and biodiversity
+- Planning and building law
+- Energy and infrastructure regulation
+- Mining and extractive industries
+- Marine, coastal and navigation regulation
+- Chemicals and hazardous substances
+- Public health and workplace safety
+- Land, property and natural resources
+- Engineering and environmental consultancy
+- Monitoring, inspection and enforcement
+
+### 6.17 Operational Considerations
+
+Operational considerations record the core variables that commonly shape the permit process:
+
+- Activity and installation definition
+- Location, land status and site context
+- Environmental media and effects
+- Authority allocation
+- Permit or approval route
+- Evidence base
+- Environmental assessment status
+- Decision scope and operating conditions
+- Monitoring and reporting
+- Renewal, review, transfer and change management
+
+### 6.18 Jurisdictional Expert
+
+The Jurisdictional Expert section is a separate registry position. It does not alter editorial content. A typical record includes:
+
+- Registry Position ID
+- Registry Position
+- Registry Availability
+- Verification Status
+- Coverage
+- Registry Reference
+- Contact Information
+
+### 6.19 Machine Layer
+
+The machine layer supports indexing, retrieval and consistent rendering. It includes:
+
+- Object DNA
+- AI Retrieval Summary
+- Entity Index
+- Machine Metadata
+- Internal References
+
+## 7. Authority Mapping Framework
+
+Before determining a permit route, establish the following:
+
+1. Exact project location
+2. Land ownership and land status
+3. Applicable national, federal, state, provincial, territorial, regional, cantonal, county, municipal, tribal, Indigenous or local jurisdiction
+4. Project sector and facility type
+5. Environmental media affected
+6. Permit thresholds and activity classifications
+7. Environmental assessment triggers
+8. Water, waste, nature, planning, building and sectoral interfaces
+9. Public participation or consultation requirements
+10. Cross-border, community, Indigenous or neighbouring-party relevance
+
+Authority mapping is a threshold task. The same activity can require different authorities and procedures based on the project location, land status, water body, environmental receptor, scale or type of impact.
+
+## 8. Permit Portfolio Framework
+
+Many projects require a portfolio rather than one standalone approval. A project permit matrix may include:
+
+- Environmental permit or licence
+- Air-emissions approval
+- Operating permit
+- Water abstraction or water-use approval
+- Wastewater or discharge permit
+- Stormwater approval
+- Waste treatment, storage, transport, recovery or disposal permit
+- Hazardous-substance or chemicals approval
+- Greenhouse-gas or emissions-trading obligation
+- Environmental impact assessment decision
+- Nature, species or protected-area approval
+- Wetlands, marine, coastal or navigable-water permit
+- Planning, zoning, land-use or building permit
+- Energy, mining, extraction, forestry or transportation approval
+- Heritage, archaeological or cultural-resource approval
+- Local operating, fire, health or safety permit
+
+The permit matrix should identify the authority, legal basis, application status, dependencies, evidence requirements, deadline, public procedure, decision date, conditions, renewal date and change-management trigger for each approval.
+
+## 9. Environmental Assessment Interface
+
+Environmental assessment is commonly separate from, integrated into or linked with permit decisions. It may include:
+
+- Screening or preliminary examination
+- Environmental impact assessment
+- Strategic environmental assessment
+- Environmental effects determination
+- Impact statement
+- Alternatives assessment
+- Cumulative-effects assessment
+- Habitat, species, water, climate, cultural-resource or social-impact study
+- Public consultation
+- Indigenous engagement where applicable
+- Transboundary assessment or consultation
+
+The assessment route should be identified before finalising the project design, because it can influence site selection, alternatives, project footprint, technology, mitigation, monitoring and permit conditions.
+
+## 10. General Process Checklist
+
+Before filing an environmental permit application, establish:
+
+- Who is the legal applicant and operator?
+- What is the exact project and operating scope?
+- Where is the project located?
+- Which authority or authorities are competent?
+- What environmental media and receptors may be affected?
+- Does the activity meet any permit or assessment threshold?
+- Are there water, waste, emissions, nature, planning, building or sectoral permits?
+- Is public, community, neighbouring-party, Indigenous or cross-border engagement required?
+- Are technical studies and baseline data complete?
+- Are all submissions consistent in capacity, equipment, footprint, operating hours, emissions and mitigation assumptions?
+- What conditions may apply after approval?
+- What changes could require amendment, renewal, review or a new permit?
+
+## 11. Legal and Editorial Notice
+
+Environmental Permits Registry is editorial reference material. It does not provide legal, environmental, engineering, permitting, investment, regulatory, technical or compliance advice.
+
+Environmental law, authority competence, permit classifications, application requirements, thresholds, forms, timelines, fees, public procedures, conditions, interpretation and enforcement can change. Requirements can also differ within a jurisdiction according to the project location, land status, sector, environmental effects and connected approvals.
+
+Readers should verify the current legal and procedural position with the competent public authority and qualified advisers before making decisions or undertaking activity.
+
+## 12. Legal Pages
+
+- Privacy Policy: https://environmental-permits.org/privacy-policy/
+- Terms of Use: https://environmental-permits.org/terms-of-use/
