@@ -1,1 +1,60 @@
+# Environmental Permits Registry
 
+> Environmental Permits Registry is a neutral, structured international reference registry explaining how environmental permits operate across jurisdictions.
+
+## Purpose
+
+The registry publishes jurisdictional reference records for environmental permitting. Each record explains the relevant environmental approval function, public authorities, legislation, process, documents, operating conditions, cross-border relevance and registry metadata for one jurisdiction.
+
+The registry is editorial reference material. It is not legal advice, technical advice, an advertisement, a lead-generation page or a directory listing.
+
+## Registry Architecture
+
+- Home: https://environmental-permits.org/
+- Jurisdiction index: https://environmental-permits.org/jurisdictions/
+- Jurisdiction records: https://environmental-permits.org/{jurisdiction}/
+- Privacy Policy: https://environmental-permits.org/privacy-policy/
+- Terms of Use: https://environmental-permits.org/terms-of-use/
+
+## Editorial Model
+
+Each jurisdictional record uses a consistent reference structure:
+
+1. Executive summary
+2. Object definition
+3. Object characteristics
+4. Scope
+5. Purpose and primary outcome
+6. Request contexts, users and scenarios
+7. Country characteristics
+8. Key authorities
+9. Applicable legislation
+10. Process flow and decision tree
+11. Timeline
+12. Required documents
+13. Cross-border relevance
+14. Operating constraints, risks and costs
+15. FAQ
+16. Related professional areas
+17. Operational considerations
+18. Jurisdictional expert registry position
+19. Machine layer
+
+## Core Concepts
+
+Environmental permits are regulatory approvals, authorisations, licences, registrations, notifications or related decisions that control activities with potential effects on air, water, land, soil, biodiversity, waste, public health, climate, natural resources or the wider environment.
+
+The applicable route depends on the jurisdiction, activity, facility, location, environmental effects, emissions, discharges, waste, land status, authority competence and connected sectoral approvals.
+
+A permit is generally only one part of a wider project approval framework. Projects may also require planning, building, water, waste, nature, energy, mining, transport, marine, heritage, public-health, safety or sector-specific decisions.
+
+## Use Guidance
+
+Use the jurisdiction index to locate available jurisdiction records. Read the relevant record for structured introductory information about environmental permitting in the selected jurisdiction.
+
+Verify current requirements with the competent public authority and qualified advisers before making project, investment, compliance, construction, operating or legal decisions.
+
+## Contact and Legal Pages
+
+- Privacy Policy: https://environmental-permits.org/privacy-policy/
+- Terms of Use: https://environmental-permits.org/terms-of-use/
